@@ -57,4 +57,64 @@
 			}	
 		}
 		]
+},
+{
+	"data" : [
+		{
+		"kategori" : "Chuck 70s",
+		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg",
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" },
+						{ "id": "1002", "type": "Chocolate" },
+						{ "id": "1003", "type": "Blueberry" },
+						{ "id": "1004", "type": "Devil's Food" }
+					]
+			}	
+		},
+		{
+		"kategori" : "Classic Chuck 70s",
+		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_classic_chuck.jpg",
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" },
+						{ "id": "1002", "type": "Chocolate" },
+						{ "id": "1003", "type": "Blueberry" },
+						{ "id": "1004", "type": "Devil's Food" }
+					]
+			}	
+		},
+		{
+		"kategori" : "Elevation",
+		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_elevation.jpg",
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" },
+						{ "id": "1002", "type": "Chocolate" },
+						{ "id": "1003", "type": "Blueberry" },
+						{ "id": "1004", "type": "Devil's Food" }
+					]
+			}	
+		},
+		{
+		"kategori" : "Kids",
+		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_kids.jpg",
+		"batters":
+			{
+				"batter":
+					[
+						{ "id": "1001", "type": "Regular" },
+						{ "id": "1002", "type": "Chocolate" },
+						{ "id": "1003", "type": "Blueberry" },
+						{ "id": "1004", "type": "Devil's Food" }
+					]
+			}	
+		}
+		]
 }
