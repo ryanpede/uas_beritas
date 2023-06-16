@@ -3,22 +3,12 @@
 	"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg"
 	"produk" :
 	{
-		[
-			{
-				"product_id" : "CTAS-001",
-				"gambar" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg",
-				"nama"	: "Converse 70s High Black"
-			},
-			{
-				"product_id" : "CTAS-001",
-				"gambar" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg",
-				"nama"	: "Converse 70s High Black"
-			},
-			{
-				"product_id" : "CTAS-001",
-				"gambar" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg",
-				"nama"	: "Converse 70s High Black"
-			}
-		]
+			"produks":
+				[
+					{ "id": "1001", "type": "Regular" },
+					{ "id": "1002", "type": "Chocolate" },
+					{ "id": "1003", "type": "Blueberry" },
+					{ "id": "1004", "type": "Devil's Food" }
+				]
 	}
 }
