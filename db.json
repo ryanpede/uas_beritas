@@ -1,0 +1,22 @@
+{
+    "jenis": [
+        {
+          "id": 1,
+          "kategori": "Man"
+          "produk" : [
+            {
+              "nama" : "Chuck Taylor 70 - Black"
+              "gambar" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
+            },
+            {
+              "nama" : "Chuck Taylor 70 - Pink"
+              "gambar" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
+            },
+            {
+              "nama" : "Chuck Taylor 70 - White"
+              "gambar" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
+            }
+          ]
+        }
+    ]
+}
