@@ -1,4 +1,4 @@
-"data" : [{
+{
 	"id": "0001",
 	"type": "donut",
 	"name": "Cake",
@@ -23,4 +23,4 @@
 			{ "id": "5003", "type": "Chocolate" },
 			{ "id": "5004", "type": "Maple" }
 		]
-}]
+}
