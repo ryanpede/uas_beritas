@@ -1,120 +1,16 @@
 {
-	"data" : [
+	"berita" : [
 		{
-		"kategori" : "Chuck 70s",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
+			"judul" : "Judul 1",
+			"image" : "asset/image/converse2.jpg"
 		},
 		{
-		"kategori" : "Classic Chuck 70s",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_classic_chuck.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
+			"judul" : "Judul 2",
+			"image" : "asset/image/offer2.jpg"
 		},
 		{
-		"kategori" : "Elevation",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_elevation.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
-		},
-		{
-		"kategori" : "Kids",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_kids.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
+			"judul" : "Judul 2",
+			"image" : "asset/image/offer3.jpg"
 		}
-		]
-},
-{
-	"data" : [
-		{
-		"kategori" : "Chuck 70s",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
-		},
-		{
-		"kategori" : "Classic Chuck 70s",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_classic_chuck.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
-		},
-		{
-		"kategori" : "Elevation",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_elevation.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
-		},
-		{
-		"kategori" : "Kids",
-		"gambar" : "https://www.converse.id/media/wysiwyg/conid_trending_kids.jpg",
-		"batters":
-			{
-				"batter":
-					[
-						{ "id": "1001", "type": "Regular" },
-						{ "id": "1002", "type": "Chocolate" },
-						{ "id": "1003", "type": "Blueberry" },
-						{ "id": "1004", "type": "Devil's Food" }
-					]
-			}	
-		}
-		]
+	]
 }
